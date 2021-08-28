@@ -102,7 +102,7 @@ public class OrganizerManager
 
 	public static final String PREFS_ERROR_ON_RETRIEVE = "ERROR";
 
-	public static final String ILLEGAL_CHARACTERS = "~, @, *, {, }, <, >, [, ], |, ì, î, \\, /, ^";
+	public static final String ILLEGAL_CHARACTERS = "~, @, *, {, }, <, >, [, ], |, ‚Äú, ‚Äù, \\, /, ^";
 	private static final String ILLEGAL_CHARACTERS_REGEX = "[~#@*{}<>\\[\\]|\"\\^\\\\\\/]";
 
 	private static Preferences prefs;
